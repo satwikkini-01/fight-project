@@ -14,7 +14,6 @@ This Flight Search App allows users to search for flights between different loca
 - **User:** Searches and views flights based on multiple criteria.
 
 ### Admin Operations
-- Login/Logout
 - CRUD (Create, Read, Update, Delete) operations for flights
 - View all flights
 
@@ -43,12 +42,11 @@ This Flight Search App allows users to search for flights between different loca
 
 ## Pages
 
-### Public Interface (flightsearch.com)
+### Public Interface
 - **Flight List:** Shows all available flights.
 - **Search:** Users can apply filters to find specific flights.
 
-### Admin Portal (flightsearch.com/admin)
-- **Admin Login**
+### Admin Portal
 - **Flight Management:** Admins can add, edit, delete, and search flights.
 
 ## CRUD Operation Screenshots
@@ -60,6 +58,3 @@ Add screenshots to demonstrate the following:
 
 Each screenshot should include a brief description of the functionality.
 
----
-
-This `README.md` provides an overview of the app's purpose, features, and database structure, focusing on CRUD operations for easy reference.
