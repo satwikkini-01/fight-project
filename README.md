@@ -1,5 +1,3 @@
-<img width="1344" alt="Screenshot 2024-11-15 at 3 35 48 PM" src="https://github.com/user-attachments/assets/fb501f76-09b0-4969-88b5-2d682e329620"># Flight Search App
-
 ## Tech Stack
 - **Frontend:** React, Bootstrap
 - **Backend:** Express, MongoDB
