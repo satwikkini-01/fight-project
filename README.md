@@ -1,4 +1,4 @@
-# Flight Search App
+<img width="1344" alt="Screenshot 2024-11-15 at 3 35 48 PM" src="https://github.com/user-attachments/assets/fb501f76-09b0-4969-88b5-2d682e329620"># Flight Search App
 
 ## Tech Stack
 - **Frontend:** React, Bootstrap
@@ -56,5 +56,10 @@ Add screenshots to demonstrate the following:
 3. **Edit Flight:** Form to update flight details.
 4. **Delete Flight:** Confirmation to remove a flight.
 
-Each screenshot should include a brief description of the functionality.
+## Screenshots
 
+<img width="1344" alt="Screenshot 2024-11-15 at 3 35 48 PM" src="https://github.com/user-attachments/assets/2a5045cd-dc27-4ae5-bb5c-d7c635f81765">
+
+<img width="740" alt="Screenshot 2024-11-15 at 3 35 54 PM" src="https://github.com/user-attachments/assets/c9ad96c4-1dee-4941-a2ed-25d99a31ee9f">
+
+<img width="762" alt="Screenshot 2024-11-15 at 3 36 00 PM" src="https://github.com/user-attachments/assets/71ce3da1-ae11-4641-8dfb-24f0f945c11e">
